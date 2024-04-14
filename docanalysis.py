@@ -9,7 +9,6 @@ import random
 import re
 import ann_post_rules
 import multiprocessing
-import time
 
 class BasicAnn(object):
     """
